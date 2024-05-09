@@ -32,9 +32,9 @@ Once the setup is complete, the Smart Dustbin is ready for use. When an object c
 ---
 
 ## Demo
-![Smart Dustbin](Smart Dustbin Project/Smart Dustbin Photo.jpg)
+![Smart Dustbin Image](https://github.com/Pratham-Bajpai1/Smart-Dustbin-Project/assets/124435912/6745a42b-30f0-457c-830c-01071bca14d6)
 
-![Smart Dustbin](Smart Dustbin Project/Smart Dustbin Video.mp4)
+![Smart Dustbin Demo](https://github.com/Pratham-Bajpai1/Smart-Dustbin-Project/assets/124435912/3e105b7b-07ba-4d0e-b357-de54332a730a)
 
 ## Contributing
 
